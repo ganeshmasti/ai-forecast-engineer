@@ -1,0 +1,6 @@
+file,row,anomaly,detail
+AMER_East_CSA_v2.xlsx,12,duplicate_business_key,same period/BU/customer/SKU as preceding row
+EMEA_DACH_Finance_v1.xlsx,17,rebate_out_of_range,front-end discount is 82%
+EMEA_UK_CBA_v4.xlsx,20,formula_drift,net revenue formula adds unexplained 1000
+APAC_North_CSA_v2.xlsx,13,missing_customer,customer ID is blank
+APAC_South_CBA_v1.xlsx,26,negative_volume,forecast quantity is negative
